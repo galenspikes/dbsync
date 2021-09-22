@@ -4,9 +4,9 @@ This utility syncs or "refreshes" a target MySQL, MongoDB, or PostgreSQL db from
 
 ## Supported Database Versions
 
-MySQL 5.x
-PostgreSQL 9.4.x - 9.6.x, 10.x, 11.x, 12.x
-MongoDB 3.x, 4.x
+* MySQL 5.x
+* PostgreSQL 9.4.x - 9.6.x, 10.x, 11.x, 12.x
+* MongoDB 3.x, 4.x
 
 ## Prerequisites
 
